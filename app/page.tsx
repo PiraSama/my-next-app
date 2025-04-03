@@ -14,9 +14,9 @@ export default function Home() {
           priority
         />
         <ol>
-          <li>
+          
             <h1>Trần Ngọc Thọ Xin chào NextJS!!</h1>
-          </li>
+          
           <li>
             Get started by editing <code>app/page.tsx</code>.
           </li>
