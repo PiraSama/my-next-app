@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
+![project NextJS helloworld (in ra dòng chữ: Tên của sv Xin chào NextJS)](public/nextjs-xinchao.png)
 ## Getting Started
 
 First, run the development server:
